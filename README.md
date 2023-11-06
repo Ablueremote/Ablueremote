@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ablueremote
-- 👀 I’m interested in coding inside and out.
-- 🌱 I’m currently learning html,CSS & Javascript
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any open ideas or projects
 - 📫 How to reach me ... ablueremote@gmail.com
 
